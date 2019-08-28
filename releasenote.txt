@@ -1,0 +1,12 @@
+release08222019
+1. Debug: APP force stop on Android 9.0+
+2. Issue: Android 9.0+ block all http trafic
+3. Solved: Allow http trafic by add permission on Manifest file..
+4. minSdkVersion 19
+5. targetSdkVersion 29
+release08282019
+1. Improove UI
+2. Add mqtt connection
+3. Add notification feature
+4. Add alarm feature
+5. set progress bar of chart on Machine Activity
